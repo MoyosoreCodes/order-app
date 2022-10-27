@@ -1,0 +1,11 @@
+{
+    "name": "orderapp",
+    "version": "1.0.0", 
+    "description": "b54 task",
+    "author": "Moyosore Olaleye",
+    "main": "server.js",
+    "private": true,
+    "scripts": {
+      "postinstall": "npm install express"
+    }
+}
